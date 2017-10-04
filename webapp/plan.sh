@@ -1,4 +1,4 @@
-pkg_origin=learn-chef
+pkg_origin=janedoe
 pkg_name=webapp
 pkg_version="0.2.1"
 pkg_maintainer="The Chef Training Team <training@chef.io>"
